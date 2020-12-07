@@ -8,6 +8,6 @@
 
 ## 论文发表
 
-![猫猫](D:\文档\platoxc.github.io2\images\猫猫.jpg)
+![猫猫](D:\文档\猫猫.jpg)
 
 Note: 这是一个演示文档。
