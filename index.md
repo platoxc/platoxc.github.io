@@ -8,6 +8,6 @@
 
 ## 论文发表
 
-![cat](D:\文档\platoxc.github.io2\images\cat.jpg)
+![cat](cat.jpg)
 
 Note: 这是一个演示文档。
