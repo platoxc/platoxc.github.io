@@ -2,7 +2,7 @@
 
 [About](index.md)
 
-[English](english)
+[English]()
 
   * [A Thought on English](english/english-formula.md)
   * [Phonetic Phonics](english/Phonetic-Phonics.md)
@@ -10,7 +10,7 @@
   * # Advanced
   * [Stress and Syllables](english/stress.md)
 
-[Math](math)
+[Math]()
 
   * [Levy Processes](math/levy_processes.md)
 
