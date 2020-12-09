@@ -8,9 +8,11 @@
   * [小说](/臆想//小说.md)
   * [影音](/臆想/影音.md)
 
-[恋爱](/爱/爱.md)
+[迷恋]()
 
+* [爱好](/爱/2pac.md)
 
+* [爱情](/爱/爱.md)
 
 
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
