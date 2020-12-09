@@ -14,12 +14,12 @@
 >
 > Cause the media is full of dirty tricks
 >
-> ​                                                        <Only God Can Judge me>
+> ​                                                        Only God Can Judge me
 
 
-
+<center>  <!--开始居中对齐-->
 ![2pac](/爱/images/2pac.jpg)
-
+<center>  <!--结束居中对齐-->
 
 
 ## Movie
@@ -31,13 +31,17 @@
 >
 >  - because we'll be together.
 
+<center>  <!--开始居中对齐-->
 ![盗梦空间](/爱/images/inception.jpg)
+<center>  <!--结束居中对齐-->
 
 ## Basketball
 
 > Mamba Out
 
+<center>  <!--开始居中对齐-->
 ![kobe](/images/kobe.jpg)
+<center>  <!--结束居中对齐-->
 
 
 
@@ -45,5 +49,7 @@
 
 > 舞！舞！舞！
 
+<center>  <!--开始居中对齐-->
 ![村上](/爱/images/村上.jpg)
+<center>  <!--结束居中对齐-->
 
