@@ -2,13 +2,11 @@
 
 [About](index.md)
 
-[English]()
+[臆想]()
 
-  * [A Thought on English](english/english-formula.md)
-  * [Phonetic Phonics](english/Phonetic-Phonics.md)
-- - - -
-  * # Advanced
-  * [Stress and Syllables](english/stress.md)
+  * [不成文的诗](不成文的诗.md)
+  * [小说](小说.md)
+  * [Stress and Syllables](影音.md)
 
 [Math]()
 
